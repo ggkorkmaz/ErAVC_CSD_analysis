@@ -16,4 +16,4 @@ This repository contains a Python script used for crystal size distribution (CSD
 
 ## Data
 
-Input files must contain a column named `Feret` (µm).
+Input files must contain a column named `Feret` (µm).All parameters were calculated using ImageJ and exported from the Results table
